@@ -1,0 +1,16 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        string name = "Kim Frances M. Manalang";
+        Console.WriteLine(name);
+        int age = 18;
+        Console.WriteLine(age);
+        double myDoubleNum = 5.67D;
+        Console.WriteLine(digits);
+        bool iLoveDani = true;
+        Console.WriteLine(iLoveDani);
+    }
+}
